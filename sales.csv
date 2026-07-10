@@ -1,0 +1,5 @@
+order_id,customer_name,city,product,price,quantity,status
+101,Rahul,Bangalore,Laptop,60000,1,Delivered
+102,Priya,Mysore,Mouse,800,2,Pending
+103,Anil,Bangalore,Keyboard,1500,1,Delivered
+104,Sneha,Chennai,Monitor,12000,,Pending
