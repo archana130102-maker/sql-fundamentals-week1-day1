@@ -1,0 +1,28 @@
+dataContractSpecification: 0.9.3
+
+id: sales-orders-v1
+
+info:
+  owner: Archana
+  consumer: BI Dashboard
+  sla: "99.5% freshness within 2 hours"
+
+models:
+  employees:
+    fields:
+      id:
+        type: integer
+        required: true
+
+      name:
+        type: string
+        required: true
+
+      age:
+        type: integer
+
+      email:
+        type: string
+        pii: true
+        classification: confidential
+        
