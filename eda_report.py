@@ -9,7 +9,6 @@ def practice():
     sales = [120, 150, 170, 140, 200]
 
     print("Sales Data:", sales)
-
     print("\nDataset Profile")
     print("Total Records:", len(sales))
     print("Maximum Sale:", max(sales))
