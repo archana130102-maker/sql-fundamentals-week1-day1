@@ -1,0 +1,11 @@
+Query,Answer,Status
+How many startups are in the dataset?,PandasAI API key does not include LLM credits. Please configure an OpenAI or LiteLLM key. Learn more at: https://docs.pandas-ai.com/v3/large-language-models#how-to-set-up-any-llm%3F,Failed
+Which city has the most startups?,PandasAI API key does not include LLM credits. Please configure an OpenAI or LiteLLM key. Learn more at: https://docs.pandas-ai.com/v3/large-language-models#how-to-set-up-any-llm%3F,Failed
+Which industry vertical appears most often?,PandasAI API key does not include LLM credits. Please configure an OpenAI or LiteLLM key. Learn more at: https://docs.pandas-ai.com/v3/large-language-models#how-to-set-up-any-llm%3F,Failed
+What are the top 5 startup names by number of entries?,PandasAI API key does not include LLM credits. Please configure an OpenAI or LiteLLM key. Learn more at: https://docs.pandas-ai.com/v3/large-language-models#how-to-set-up-any-llm%3F,Failed
+Which investment type appears most often?,PandasAI API key does not include LLM credits. Please configure an OpenAI or LiteLLM key. Learn more at: https://docs.pandas-ai.com/v3/large-language-models#how-to-set-up-any-llm%3F,Failed
+How many startups are located in Bangalore?,PandasAI API key does not include LLM credits. Please configure an OpenAI or LiteLLM key. Learn more at: https://docs.pandas-ai.com/v3/large-language-models#how-to-set-up-any-llm%3F,Failed
+How many startups are located in Mumbai?,PandasAI API key does not include LLM credits. Please configure an OpenAI or LiteLLM key. Learn more at: https://docs.pandas-ai.com/v3/large-language-models#how-to-set-up-any-llm%3F,Failed
+Show the top 5 cities by number of startups.,PandasAI API key does not include LLM credits. Please configure an OpenAI or LiteLLM key. Learn more at: https://docs.pandas-ai.com/v3/large-language-models#how-to-set-up-any-llm%3F,Failed
+Which industry vertical has the most entries?,PandasAI API key does not include LLM credits. Please configure an OpenAI or LiteLLM key. Learn more at: https://docs.pandas-ai.com/v3/large-language-models#how-to-set-up-any-llm%3F,Failed
+How many records have missing investor names?,PandasAI API key does not include LLM credits. Please configure an OpenAI or LiteLLM key. Learn more at: https://docs.pandas-ai.com/v3/large-language-models#how-to-set-up-any-llm%3F,Failed
